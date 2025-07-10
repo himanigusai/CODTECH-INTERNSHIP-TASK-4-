@@ -20,4 +20,12 @@ VR-style Carousel Navigation with intuitive left/right buttons Focus Glow & Shad
 
 OUTPUT
 
+![Image](https://github.com/user-attachments/assets/72a98fdf-b451-47c4-b496-cf68cdcc87ab)
+
+![Image](https://github.com/user-attachments/assets/3aacf470-2177-43f0-bd12-5adca1f25060)
+
+![Image](https://github.com/user-attachments/assets/a28c1d29-c5d6-4b3b-865d-34cf134c9b05)
+
+![Image](https://github.com/user-attachments/assets/c4d95866-9727-4515-a44f-34efc65c38cc)
+
 
